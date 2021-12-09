@@ -1,0 +1,129 @@
+.contetnt{
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.image_aikonn{
+    text-align: center;
+    font-size: 40px;
+}
+.image_syoukai{
+    text-align: center;
+    font-size: 40px;
+}
+#hitoloto{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 100;
+    color:black;
+}
+.douga_text{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 30px;
+    background-color: yellow;
+}
+#douga{
+    text-align: center;
+    height: 40%;
+    width: 40%;
+}
+#bideo1{
+    margin-left: 85px;
+}
+.for{
+    background-color: darkkhaki;
+    margin-top: 15px;
+    font-size: 60px;
+
+}
+.for_setumei{
+
+    font-size: 40px;
+}
+.for_code1 {
+    font-size: 45px;
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2%;
+    margin-right: 22%;
+}
+.kekka{
+    background-color: white;
+}
+
+.for_ronnpa{
+    text-decoration:underline red;
+    font-weight: bold;
+}
+img{
+    width: 100%;
+}
+.time_dai{
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: darkkhaki;
+    margin-top: 15px;
+    font-size: 60px;
+}
+.sleep{
+    font-size: 45px;
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2%;
+    margin-right: 22%;
+}
+#video2{
+    margin-left: 85px;
+}
+.kaisetu1{
+    background-color: lightpink;
+    margin-top: 15px;
+    font-size: 40px;
+}
+#kaisetu2{
+    margin-left: 15px;
+    font-size: 40px;
+}
+#kaisetu3{
+    margin-left: 15px;
+    font-size: 40px;
+}
+#kaisetu4{
+    margin-left: 15px;
+    font-size: 40px;
+}
+.while{
+    font-size: 45px;
+    text-align: left;
+    margin-left: 23%;
+    margin-top: 2%;
+    margin-right: 22%;
+}
+.while_dai{
+    max-width: 980px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: darkkhaki;
+    margin-top: 15px;
+    font-size: 60px;
+}
+.while_setumei{
+    margin-left: 15px;
+    font-size: 40px;
+    text-align: left;
+}
+.while_kaisetu{
+    background-color: lightpink;
+    margin-top: 15px;
+    font-size: 40px;
+}
+.kannsei_text{
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+}
+.URL{
+    align-items: center;
+    margin-left: 250px;
+}
